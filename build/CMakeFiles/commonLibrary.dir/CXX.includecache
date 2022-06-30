@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/madara/Documents/gtestProjects/testFixtures/libraryCode.cpp
+libraryCode.hpp
+/home/madara/Documents/gtestProjects/testFixtures/libraryCode.hpp
+iostream
+-
+
+/home/madara/Documents/gtestProjects/testFixtures/libraryCode.hpp
+

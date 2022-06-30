@@ -1,0 +1,5 @@
+/home/madara/Documents/gtestProjects/testFixtures/build/CMakeFiles/rebuild_cache.dir
+/home/madara/Documents/gtestProjects/testFixtures/build/CMakeFiles/unitTestRunner.dir
+/home/madara/Documents/gtestProjects/testFixtures/build/CMakeFiles/mainApp.dir
+/home/madara/Documents/gtestProjects/testFixtures/build/CMakeFiles/edit_cache.dir
+/home/madara/Documents/gtestProjects/testFixtures/build/CMakeFiles/commonLibrary.dir
